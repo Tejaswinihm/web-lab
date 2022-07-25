@@ -1,0 +1,39 @@
+h1{
+    background-color: rgb(212, 193, 16);
+    border-top: 2px dashed rgb(47, 2, 68);
+    border-bottom: 2px dashed rgb(46, 2, 82);
+    border-radius: 40px;
+}
+h{
+    background-color: rgb(25, 173, 173);
+    border-top: 2px dashed rgb(233, 21, 38);
+    border-bottom: 2px dashed rgb(212, 27, 43);
+    border-radius: 30px;
+}
+table{
+    border-color: white(60, 2, 114);
+    border-top: 2px dashed rgb(233, 21, 38);
+    border-bottom: 2px dashed rgb(212, 27, 43);
+    border-radius: 30px;
+    padding: 20px;
+    margin: 10px;
+}
+td{
+    border-color: rgb(255, 253, 253);
+    border-radius: 30px;
+}
+ul{
+    color: rgb(29, 2, 54);
+}
+ol{
+    color: rgb(3, 66, 61)
+}
+.center{
+    padding:50px;
+    outline: auto;
+    margin: 10px;
+    background-color: rgb(223, 147, 238);
+    border-radius: 30px;
+    border-top: 5px dashed rgb(41, 240, 41);
+    border-bottom: 5px dashed rgb(91, 224, 65);
+}
